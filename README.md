@@ -1,5 +1,4 @@
 ## Lab assignments for ECE415: High Performance Computing (HPC)
---------------------------------------------------------------
 
 ### Lab1
 Standard Code Optimizations on Sobel Filter for Edge Detection
